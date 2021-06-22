@@ -1,4 +1,4 @@
-# JavaScript OOP 笔记
+# JavaScript 面向对象笔记
 
 * [01.工厂函数（factory）与构造函数（constructor）](https://github.com/SingleDiego/JavaScript-OOP-Notes/blob/main/docs/01.%E5%B7%A5%E5%8E%82%E5%87%BD%E6%95%B0%EF%BC%88factory%EF%BC%89%E4%B8%8E%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%EF%BC%88constructor%EF%BC%89.md)
 * [02.值类型（Value-Types）与引用类型（Reference-Types）](https://github.com/SingleDiego/JavaScript-OOP-Notes/blob/main/docs/02.%E5%80%BC%E7%B1%BB%E5%9E%8B%EF%BC%88Value-Types%EF%BC%89%E4%B8%8E%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B%EF%BC%88Reference-Types%EF%BC%89.md)
